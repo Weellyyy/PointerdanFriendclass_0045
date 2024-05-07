@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prak7mei_cth1", "Prak7mei_c
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contoh 2", "Contoh 2\Contoh 2.vcxproj", "{D41F223C-2E2F-4F0B-867D-23CDD88CC721}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contoh ke3", "contoh ke3\contoh ke3.vcxproj", "{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D41F223C-2E2F-4F0B-867D-23CDD88CC721}.Release|x64.Build.0 = Release|x64
 		{D41F223C-2E2F-4F0B-867D-23CDD88CC721}.Release|x86.ActiveCfg = Release|Win32
 		{D41F223C-2E2F-4F0B-867D-23CDD88CC721}.Release|x86.Build.0 = Release|Win32
+		{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}.Debug|x64.ActiveCfg = Debug|x64
+		{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}.Debug|x64.Build.0 = Debug|x64
+		{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}.Debug|x86.ActiveCfg = Debug|Win32
+		{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}.Debug|x86.Build.0 = Debug|Win32
+		{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}.Release|x64.ActiveCfg = Release|x64
+		{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}.Release|x64.Build.0 = Release|x64
+		{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}.Release|x86.ActiveCfg = Release|Win32
+		{33BE95A6-708C-4DBB-9781-E85F35C8BCD8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
